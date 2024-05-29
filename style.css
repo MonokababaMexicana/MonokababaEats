@@ -1,0 +1,28 @@
+body {
+  font-family: 'Pacifico', sans-serif;
+}
+
+p {
+  color: rgb(255, 145, 0);
+  font-size: 15px;
+}
+h1{
+  color: rgb(255, 145, 0);
+  font-size: 35px;
+}
+h2 {
+  color: rgb(255, 145, 0);
+  font-size: 25px;
+}
+body {
+  background-color: #9b0000;
+}
+
+p, h1, h2 {
+  margin: 5px 10px;
+  padding: 5px 10px;
+}
+header, footer {
+  background-color: rgb(255, 145, 0);
+  padding: 10px;
+}
